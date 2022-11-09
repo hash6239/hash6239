@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @hash6239
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on tech projects
 - 📫 How to reach me @hash_39
 
 <!---
